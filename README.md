@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
-- 💬 Ask me about **Android,Kotlin,**
+- 💬 Ask me about **Android,Java & Kotlin**
 
 - 📫 How to reach me **harshnag.008@gmail.com**
 
