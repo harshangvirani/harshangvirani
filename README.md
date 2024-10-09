@@ -21,8 +21,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/harshang"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshang" /></a></p>
-<p>
-<br> 
-[![@harshangvirani's Holopin board](https://holopin.me/harshangvirani)](https://holopin.io/@harshangvirani)  
-</p>
 <br><br>
+[![An image of @harshangvirani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshangvirani)](https://holopin.io/@harshangvirani)
